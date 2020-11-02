@@ -2,6 +2,7 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+
 .alert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
@@ -19,6 +20,7 @@ body {
 
 .callout-container {
     height: 100vh;
+    
 
     background: url("../images/whiskey-background.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
@@ -121,9 +123,10 @@ body {
 .btn--cta {
     font-weight: bold;
     border-radius: 23px;
-    width: 160px;
+    width: 170px;
+}
 
-}.btn--red {
+.btn--red {
     color: white;
     background-color: #f05f40;
     border-color: #f05f40;
